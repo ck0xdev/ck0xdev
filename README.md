@@ -2,10 +2,6 @@
 
 ### Frontend Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ck0xdev&label=Profile views&color=0e75b6&style=flat" alt="ck0xdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ck0xdev" alt="ck0xdev" /></a> </p>
-
 - 🔭 I'm currently working on **A Portfolio**
 
 - 🌱 I'm currently learning **React**
