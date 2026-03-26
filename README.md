@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=ck0x&fontSize=90&fontColor=ffffff&animation=fadeIn" />
   </a>
   
-  <h3>React Developer | Mobile Craftsman | React Native Intern</h3>
+  <h3>Front-end Developer | React Native Intern</h3>
 
   <p>
     <a href="https://github.com/ck0xdev"><img src="https://img.shields.io/github/followers/ck0xdev?label=NETWORK&style=for-the-badge&color=87CEEB&logo=github&logoColor=white" /></a>
