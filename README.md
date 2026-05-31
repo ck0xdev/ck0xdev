@@ -1,18 +1,18 @@
 <div align="center">
   <a href="https://github.com/ck0xdev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0a192f,1a2a4f,87CEEB&height=220&section=header&text=ck0xdev&fontSize=100&fontColor=ffffff&fontFamily=Inter&animation=fadeIn&fontAlignX=50&fontAlignY=55" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0a192f,3b82f6,a855f7,00e5ff,87CEEB&height=220&section=header&text=ck0xdev&fontSize=100&fontColor=ffffff&fontFamily=Inter&animation=fadeIn&fontAlignX=50&fontAlignY=55" alt="Header" />
   </a>
 
   <h1>👋 Hi, I'm ck0xdev</h1>
   
-  <h3>🚀 Frontend Developer | React Native Intern | BCA Student</h3> </br>
+  <h3>🚀 Frontend Developer | React Native Intern | BCA Student</h3> <br />
 
   <p align="center">
     <a href="https://github.com/ck0xdev">
-      <img src="https://img.shields.io/github/followers/ck0xdev?label=Followers&style=for-the-badge&color=87CEEB&logo=github&logoColor=white&cacheSeconds=3600" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/ck0xdev?label=Followers&style=for-the-badge&color=a855f7&logo=github&logoColor=white&cacheSeconds=3600" alt="Followers" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Active-87CEEB?style=for-the-badge&logo=activity&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-Surat,%20Gujarat,%20India-87CEEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Active-00e5ff?style=for-the-badge&logo=activity&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Surat,%20Gujarat,%20India-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 </div>
 
@@ -37,15 +37,14 @@ I'm a **BCA student** and developer currently refining my craft at **Sughosh Tec
 
 <div align="center">
   
-
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ck0xdev&bg_color=00000000&color=87CEEB&line=87CEEB&point=87CEEB&area=true&hide_border=true&border_color=3b82f6&border_radius=15&theme=react&area_opacity=0.2&v=1" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ck0xdev&bg_color=00000000&color=ffffff&line=00e5ff&point=a855f7&area=true&hide_border=true&border_color=a855f7&border_radius=15&theme=react&area_opacity=0.2&v=1" alt="Activity Graph" />
 
   <br />
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck0xdev&stroke=87CEEB&numbers=87CEEB&background=00000000&fire=87CEEB&currStreakNum=87CEEB&sideNums=87CEEB&sideLabels=87CEEB&dates=87CEEB&hide_border=true&border_color=3b82f6&border_radius=15&v=1" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck0xdev&stroke=00e5ff&numbers=ffffff&background=00000000&fire=a855f7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=87CEEB&dates=87CEEB&hide_border=true&border_color=a855f7&border_radius=15&v=1" alt="Streak Stats" />
 </div>
 
 ---
@@ -53,7 +52,7 @@ I'm a **BCA student** and developer currently refining my craft at **Sughosh Tec
 ## 🏆 Highlights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ck0xdev&theme=react&bg_color=00000000&v=1" alt="Highlights" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ck0xdev&theme=tokyonight&bg_color=00000000&v=1" alt="Highlights" />
 </div>
 
 ---
@@ -69,17 +68,17 @@ I'm a **BCA student** and developer currently refining my craft at **Sughosh Tec
 
   <p>
     <a href="https://github.com/ck0xdev">
-      <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=87CEEB" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=3b82f6" alt="GitHub" />
     </a>
     <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=87CEEB" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
     </a>
   </p>
 
   <br />
 
   ### 👁️ Visitor Counter
-  <img src="https://komarev.com/ghpvc/?username=ck0xdev&color=87CEEB&style=for-the-badge&label=Profile+Views&logo=eye&logoColor=white" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=ck0xdev&color=00e5ff&style=for-the-badge&label=Profile+Views&logo=eye&logoColor=white" alt="Visitor Counter" />
 </div>
 
 ---
@@ -88,5 +87,5 @@ I'm a **BCA student** and developer currently refining my craft at **Sughosh Tec
   <h3>🌟 Support My Work</h3>
   <p>If you like my work, ⭐ star my repos or contribute to open source!</p>
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=0a192f,1a2a4f&height=80&section=footer&fontSize=14&text=Made+with+%E2%9D%A4+by+ck0xdev&fontColor=87CEEB" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=0a192f,3b82f6,a855f7,00e5ff,87CEEB&height=80&section=footer&fontSize=14&text=Made+with+%E2%9D%A4+by+ck0xdev&fontColor=ffffff" alt="Footer" />
 </div>
