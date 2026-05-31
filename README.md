@@ -1,79 +1,92 @@
 <div align="center">
   <a href="https://github.com/ck0xdev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=ck0x&fontSize=90&fontColor=ffffff&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0a192f,1a2a4f,87CEEB&height=220&section=header&text=ck0xdev&fontSize=100&fontColor=ffffff&fontFamily=Inter&animation=fadeIn&fontAlignX=50&fontAlignY=55" alt="Header" />
   </a>
+
+  <h1>👋 Hi, I'm ck0xdev</h1>
   
-  <h3>Front-end Developer | React Native Intern</h3>
+  <h3>🚀 Frontend Developer | React Native Intern | BCA Student</h3> </br>
+
+  <p align="center">
+    <a href="https://github.com/ck0xdev">
+      <img src="https://img.shields.io/github/followers/ck0xdev?label=Followers&style=for-the-badge&color=87CEEB&logo=github&logoColor=white&cacheSeconds=3600" alt="Followers" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Active-87CEEB?style=for-the-badge&logo=activity&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Location-Surat,%20Gujarat,%20India-87CEEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
+</div>
+
+---
+
+## 🎯 About Me
+
+> **Digital Architect** passionate about crafting **clean, high-performance web experiences** with pixel-perfect precision.
+
+I'm a **BCA student** and developer currently refining my craft at **Sughosh TechnoLab**, where I focus on building **seamless user interfaces** that users love. My mission is to create intuitive, performant applications that solve real problems.
+
+### 🔥 What I Bring to the Table
+- ✨ **Clean Code** advocate with attention to detail
+- 🚀 **Performance-first** mindset for lightning-fast apps  
+- 🎨 **UI/UX enthusiast** who cares about user experience
+- 💡 **Problem solver** who loves tackling complex challenges
+- 📚 **Continuous learner** staying updated with latest tech
+
+---
+
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+  
+
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ck0xdev&bg_color=00000000&color=87CEEB&line=87CEEB&point=87CEEB&area=true&hide_border=true&border_color=3b82f6&border_radius=15&theme=react&area_opacity=0.2&v=1" alt="Activity Graph" />
+
+  <br />
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck0xdev&stroke=87CEEB&numbers=87CEEB&background=00000000&fire=87CEEB&currStreakNum=87CEEB&sideNums=87CEEB&sideLabels=87CEEB&dates=87CEEB&hide_border=true&border_color=3b82f6&border_radius=15&v=1" alt="Streak Stats" />
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ck0xdev&theme=react&bg_color=00000000&v=1" alt="Highlights" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <blockquote>
+    <p>💬 <i>"Code is poetry written for machines. Let's build something amazing together."</i></p>
+  </blockquote>
+
+  <br />
 
   <p>
-    <a href="https://github.com/ck0xdev"><img src="https://img.shields.io/github/followers/ck0xdev?label=NETWORK&style=for-the-badge&color=87CEEB&logo=github&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-87CEEB?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LOCATION-INDIA-white?style=for-the-badge&logo=googlemaps&logoColor=87CEEB" />
+    <a href="https://github.com/ck0xdev">
+      <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=87CEEB" alt="GitHub" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=87CEEB" alt="Email" />
+    </a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Front-end+Developer;React+Native+Intern" alt="Typing SVG" />
+  <br />
+
+  ### 👁️ Visitor Counter
+  <img src="https://komarev.com/ghpvc/?username=ck0xdev&color=87CEEB&style=for-the-badge&label=Profile+Views&logo=eye&logoColor=white" alt="Visitor Counter" />
 </div>
-
----
-
-### Digital Architect
-> I am a BCA student and developer dedicated to crafting clean, high-performance web experiences. Currently refining my craft at **Sughosh TechnoLab** with a focus on seamless user interfaces.
-
----
-
-### Technical Architecture
-
-<div align="left">
-
-<p>
-  <img src="https://img.shields.io/badge/01._CORE_FRONTEND-87CEEB?style=flat-square&logoColor=white" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=light" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/02._LOGIC_AND_MOBILE-87CEEB?style=flat-square&logoColor=white" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,py,mysql,firebase&theme=light" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/03._DESIGN_AND_TOOLS-87CEEB?style=flat-square&logoColor=white" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,ps,git,github,vscode&theme=light" />
-</p>
-
-</div>
-
----
-
-### System Analytics and Performance
-
-<p align="center">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api?username=ck0xdev&show_icons=true&bg_color=00000000&title_color=87CEEB&icon_color=87CEEB&text_color=87CEEB&border_color=c0c9d6&hide_border=false&border_radius=20" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck0xdev&layout=compact&bg_color=00000000&title_color=87CEEB&icon_color=87CEEB&text_color=87CEEB&border_color=c0c9d6&hide_border=false&border_radius=20" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ck0xdev&bg_color=00000000&color=87CEEB&line=87CEEB&point=87CEEB&area=true&hide_border=false&border_color=c0c9d6&border_radius=20" width="73%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck0xdev&stroke=87CEEB&extra_area=87CEEB&fire=87CEEB&currStreakNum=87CEEB&sideNums=87CEEB&sideLabels=87CEEB&dates=87CEEB&hide_border=false&border_color=c0c9d6&background=00000000&border_radius=20" width="55%" />
-</p>
-
-<br/>
-
-
 
 ---
 
 <div align="center">
-  <p><i>Let's connect and build the future.</i></p>
-
-  <a href="https://github.com/ck0xdev">
-    <img src="https://img.shields.io/badge/GitHub_Profile-white?style=for-the-badge&logo=github&logoColor=87CEEB" />
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ck0xdev&color=87CEEB&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <h3>🌟 Support My Work</h3>
+  <p>If you like my work, ⭐ star my repos or contribute to open source!</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColor=0a192f,1a2a4f&height=80&section=footer&fontSize=14&text=Made+with+%E2%9D%A4+by+ck0xdev&fontColor=87CEEB" alt="Footer" />
 </div>
